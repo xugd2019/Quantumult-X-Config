@@ -1,3 +1,3 @@
 # Quantumult-X-Config
 
-×ÔÓÃQuanX¿â
+QuanXè‡ªç”¨è„šæœ¬åº“
