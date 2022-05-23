@@ -1,1 +1,3 @@
 # Quantumult-X-Config
+
+test
