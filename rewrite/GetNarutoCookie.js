@@ -1,7 +1,7 @@
 /**
- * ÊÖ¶¯Ç©µ½Ò»´Î×Ô¶¯»ñÈ¡Cookie
- * »ñÈ¡µÄCookie¹©×Ô¶¯Ç©µ½½Å±¾Ê¹ÓÃ
- * ´úÂë²Î¿¼ https://github.com/chavyleung/scripts/tree/master/bilibili
+ * æ‰‹åŠ¨ç­¾åˆ°ä¸€æ¬¡è‡ªåŠ¨è·å–Cookie
+ * è·å–çš„Cookieä¾›è‡ªåŠ¨ç­¾åˆ°è„šæœ¬ä½¿ç”¨
+ * ä»£ç å‚è€ƒ https://github.com/chavyleung/scripts/tree/master/bilibili
  *
  */
 const cookieName = 'narutoCookie'
@@ -10,8 +10,8 @@ const xugd = init()
 const cookieVal = $request.headers['Cookie']
 if (cookieVal) {
     if (xugd.setdata(cookieVal, cookieKey)) {
-        xugd.msg(`${cookieName}`, '»ñÈ¡Cookie: ³É¹¦', '')
-        xugd.log(`[${cookieName}] »ñÈ¡Cookie: ³É¹¦, cookie: ${cookieVal}`)
+        xugd.msg(`${cookieName}`, 'è·å–Cookie: æˆåŠŸ', '')
+        xugd.log(`[${cookieName}] è·å–Cookie: æˆåŠŸ, cookie: ${cookieVal}`)
     }
 }
 function init() {

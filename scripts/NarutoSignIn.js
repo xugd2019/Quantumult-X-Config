@@ -1,9 +1,9 @@
 /**
- * ��Ӱ�������ι��ں�ǩ�������Զ�ǩ��
- * ���ýű�
- * ������
- * ��Եά��
- * ��Ҫ�Լ�ץ����Cookie
+ * 火影忍者手游公众号签绑有礼自动签到
+ * 自用脚本
+ * 测试中
+ * 随缘维护
+ * 需要自己抓包拿Cookie
  */
 
 const url = "https://gw.gzh.qq.com/awp-signin/register?id=15";
