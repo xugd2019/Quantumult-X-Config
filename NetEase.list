@@ -1,0 +1,1 @@
+shadowsocks=leons.ml:1153, method=aead_aes_128_gcm, password=1HbLsqT@netease, fast-open=false, udp-relay=false, tag=Netsease
