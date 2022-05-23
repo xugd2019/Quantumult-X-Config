@@ -1,0 +1,7 @@
+{
+  "name": "xugd",
+  "description": "https://github.com/xugd2019/Quantumult-X-Config",
+  "task": [
+    "0 5 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=Œ·∞Æ∆∆Ω‚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png, enabled=true",
+    ]
+}

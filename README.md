@@ -1,3 +1,3 @@
 # Quantumult-X-Config
 
-test
+×ÔÓÃQuanX¿â
