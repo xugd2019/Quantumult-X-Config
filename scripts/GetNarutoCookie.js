@@ -10,7 +10,7 @@ const xugd = init()
 const cookieVal = $request.headers['Cookie']
 if (cookieVal) {
     if (xugd.setdata(cookieVal, cookieKey)) {
-        xugd.msg(`${cookieName}`, '获取Cookie: 成功', '')
+        xugd.msg(`${cookieName}`, '火影获取Cookie: 成功', '')
         xugd.log(`[${cookieName}] 获取Cookie: 成功, cookie: ${cookieVal}`)
     }
 }

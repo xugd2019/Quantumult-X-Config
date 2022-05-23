@@ -3,7 +3,6 @@
  * 自用脚本
  * 测试中
  * 随缘维护
- * 需要自己抓包拿Cookie
  */
 
 const url = "https://gw.gzh.qq.com/awp-signin/register?id=15";
@@ -13,7 +12,7 @@ const headers = {"Accept": "*/*",
 	          "Accept-Language": "zh-CN,zh-Hans;q=0.9",
 	          "Connection": "keep-alive",
 	          "Content-Type": "application/x-www-form-urlencoded",
-	          "Cookie": "fsza_sk_s_at_wxa817069bb040f860=1653236791; fsza_sk_t_at_wxa817069bb040f860=ab5a703b0654646b11a77646e7ac3b4451688d0636e0dfef6b3e470938516d8d; pgv_pvid=5712510688; RK=R1uBFlyBZg; lskey=000100006790cab76fe28588106e86c249811ce9c70dd35f91479b38c4fa9189d85e0ec762bc77b58e6ac08c; luin=o1152885547; ptcz=faf1d46a68779974ff86f764d16a77b0089dc4ef8fc958d89998851ebb5030fa; eas_sid=K106G5E226N463W4W1b8B8d150; fsza_sk_s_q_101482157=1651771880; fsza_sk_s_q_at_101482157=1651771880; fsza_sk_t_q_101482157=01G2AMDD3DABECXWTZW2VQ3V2W; fsza_sk_t_q_at_101482157=01G2AMDD3DABECXWTZW2VQ3V2W",
+	          "Cookie": $prefs.valueForKey("cookie_naruto"),
 	          "Host": "gw.gzh.qq.com",
 	          "Origin": "https://gzhcos.qq.com",
 	          "Referer": "https://gzhcos.qq.com/",
