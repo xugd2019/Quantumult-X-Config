@@ -2,6 +2,6 @@
   "name": "xugd",
   "description": "https://github.com/xugd2019/Quantumult-X-Config",
   "task": [
-    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoSignIn.js, tag=火影手游公众号, img-url=https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/images/naruto.jpg, enabled=true"
+    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoSignIn.js, tag=火影手游公众号, img-url=https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/images/naruto.png, enabled=true"
     ]
 }
