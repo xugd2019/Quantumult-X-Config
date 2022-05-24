@@ -8,7 +8,7 @@ const url = `https://gw.gzh.qq.com/sidip/site/role/display?site=hyrz&login_type=
 const method = `GET`;
 const headers = {
 'Origin' : `https://gzhcos.qq.com`,
-'Cookie' : ,
+'Cookie' : $prefs.valueForKey("cookie_naruto"),
 'Connection' : `keep-alive`,
 'Accept' : `*/*`,
 'Referer' : `https://gzhcos.qq.com/`,
