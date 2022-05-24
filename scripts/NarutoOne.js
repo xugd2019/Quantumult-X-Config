@@ -5,7 +5,7 @@
 const url = "https://apps.gzh.qq.com/common/wx/api/thirdpartySign.php?sAppid=wxa817069bb040f860&sUrl=https%3A%2F%2Fgzhcos.qq.com%2Fawp-activity%2Fcommon%2F%3FADTAG%3Dhyrz.15&callback=__jp0";
 const method = "GET";
 const headers = {
-"Cookie" : "fsza_sk_s_q_101482157=1653409211; fsza_sk_s_q_at_101482157=1653409211; fsza_sk_t_q_101482157=01G3VDWS91VJQKWJ9STFQWJ1HY; fsza_sk_t_q_at_101482157=01G3VDWS91VJQKWJ9STFQWJ1HY; gzh_user_status=29cOxr5jOFgPOe1ACH2WPqv05IE; fsza_sk_s_at_wxa817069bb040f860=1653409155; fsza_sk_t_at_wxa817069bb040f860=0eb432559436a7dc0be8cb28ba83f3ecb874cd626f8e520efee58c9f5b5ff966",
+"Cookie" : $prefs.valueForKey("cookie_naruto"),
 "Accept" : "*/*",
 "Connection' : "keep-alive",
 "Referer" : "https://gzhcos.qq.com/",
