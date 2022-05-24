@@ -3,8 +3,8 @@
   "description": "https://github.com/xugd2019/Quantumult-X-Config",
   "task": [
     "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoSignIn.js, tag=火影手游公众号, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
-    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoOne.js, tag=火影验证1, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
-    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoTwo.js, tag=火影验证2, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
-    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/Naruto3.js, tag=火影验证3, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true"
+    "1 4 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoOne.js, tag=火影验证1, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
+    "2 4 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoTwo.js, tag=火影验证2, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
+    "3 4 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/Naruto3.js, tag=火影验证3, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true"
     ]
 }
