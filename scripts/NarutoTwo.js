@@ -8,7 +8,7 @@ const url = "https://app.ingame.qq.com/ingamego/trpc/user-data/get?site_id=5&log
 const method = "GET";
 const headers = {
 "Origin" : "https://gzhcos.qq.com",
-"Cookie" : "fsza_sk_s_q_101482157=1653409211; fsza_sk_s_q_at_101482157=1653409211; fsza_sk_t_q_101482157=01G3VDWS91VJQKWJ9STFQWJ1HY; fsza_sk_t_q_at_101482157=01G3VDWS91VJQKWJ9STFQWJ1HY; gzh_user_status=29cOxr5jOFgPOe1ACH2WPqv05IE; fsza_sk_s_at_wxa817069bb040f860=1653409155; fsza_sk_t_at_wxa817069bb040f860=0eb432559436a7dc0be8cb28ba83f3ecb874cd626f8e520efee58c9f5b5ff966",
+"Cookie" : $prefs.valueForKey("cookie_naruto"),
 "Connection" : "keep-alive",
 "Accept" : "*/*",
 "Referer" : "https://gzhcos.qq.com/",
