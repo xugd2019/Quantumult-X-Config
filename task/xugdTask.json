@@ -2,6 +2,7 @@
   "name": "xugd",
   "description": "https://github.com/xugd2019/Quantumult-X-Config",
   "task": [
-    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoSignIn.js, tag=火影手游公众号, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true"
+    "0 5 * * * https://raw.githubusercontent.com/xugd2019/Quantumult-X-Config/main/scripts/NarutoSignIn.js, tag=火影手游公众号, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png, enabled=true",
+    "0 9,18 * * 1-5 https://raw.githubusercontent.com/yichahucha/surge/master/clock_in.js, tag=dingding"
     ]
 }
