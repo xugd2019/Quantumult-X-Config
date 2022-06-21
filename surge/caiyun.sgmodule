@@ -1,3 +1,4 @@
+#!name=彩云天气
 [MITM]
 hostname=weather-data.apple.com, api.weather.com
 [Script]
