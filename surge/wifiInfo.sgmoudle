@@ -1,7 +1,7 @@
 #!name=网络信息
 #!desc=网络信息
 [Panel]
-net-info-panel=title="网络状态",content="请刷新",style=info,script-name=net-info-panel
+net-info-panel=title="网络状态",content="请刷新",style=info,script-name=net-info-panel,update-interval=60
 
 [Script]
 net-info-panel=script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/Panels/NetInfo/net-info-panel.js,type=generic
